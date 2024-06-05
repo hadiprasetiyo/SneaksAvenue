@@ -1,6 +1,6 @@
 # 🚀 SneaksAvenue - Laravel Project
 
-Selamat datang di SneaksAvenue, sebuah project Laravel yang bertujuan menyediakan platform untuk membeli dan menjual sepatu merek internasional.
+Selamat datang di SneaksAvenue, sebuah project Laravel yang bertujuan menyediakan platform e-commerce untuk membeli dan menjual sepatu merek internasional.
 
 ## 🌟 Features
 

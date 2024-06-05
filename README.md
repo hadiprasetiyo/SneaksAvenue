@@ -1,20 +1,20 @@
 # 🚀 SneaksAvenue Laravel Project
 
-Selamat datang di SneaksAvenue, sebuah project Laravel yang bertujuan menyediakan platform untuk membeli dan menjual sepatu merk internasional.
+Selamat datang di SneaksAvenue, sebuah project Laravel yang bertujuan menyediakan platform untuk membeli dan menjual sepatu merek internasional.
 
 ## 🌟 Features
 
-✨ **Autentikasi**: Fungsionalitas login dan registrasi yang aman.  
-📦 **Operasi CRUD**: Create, Read, update, dan Delete artikel.  
-🖥️ **Dashboard**: Akses dashboard admin untuk mengelola backend.  
-🌐 **Routing**: Route terorganisir untuk berbagai fungsionalitas.  
-👟 **Merek Internasional**: Telusuri dan beli sepatu dari merek internasional ternama.
+✨ **Authentication**: Secure login and registration functionality.  
+📦 **CRUD Operations**: Create, read, update, and delete articles.  
+🖥️ **Dashboard**: Access the admin dashboard to manage the backend.  
+🌐 **Routing**: Organized routes for various functionalities.  
+👟 **International Brands**: Browse and purchase shoes from renowned international brands.
 
 ## 🛠️ Usage
 
-*   **Autentikasi**: Masuk atau daftar untuk mengakses fitur situs web.
-*   **Dashboard**: Kelola backend dan lihat analitik di `/admin/dashboard`.
-*   **Artikel**: Telusuri, tambahkan, edit, dan hapus artikel di `/admin/article`.
+*   **Authentication**: Sign in or register to access the website's features.
+*   **Dashboard**: Manage the backend and view analytics at `/admin/dashboard`.
+*   **Articles**: Browse, add, edit, and delete articles at `/admin/article`.
 
 ## 🤝 Contributing
 

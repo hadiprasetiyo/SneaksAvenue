@@ -39,9 +39,9 @@ SneaksAvenue is developed and maintained by:
 
 Feel free to reach out to me:
 
-- **GitHub** : [🐙 hadiprasetiyo](https://github.com/hadiprasetiyo)
-- **Instagram** : [📸 hadiiprasetiyo](https://instagram.com/hadiiprasetiyo/))
-- **LinkedIn** : [💼 Hadi Prasetiyo](https://linkedin.com/in/hadiprasetiyo/))
-- **Discord** : [👾 hadiiyok](https://discordapp.com/users/hadiiyok/))
+- 🐙 **GitHub** : [hadiprasetiyo](https://github.com/hadiprasetiyo)
+- 📸 **Instagram** : [hadiiprasetiyo](https://instagram.com/hadiiprasetiyo/)
+- 💼 **LinkedIn** : [Hadi Prasetiyo](https://linkedin.com/in/hadiprasetiyo/)
+- 👾 **Discord** : [hadiiyok](https://discordapp.com/users/hadiiyok/)
 
 Contributions, suggestions, and feedback are always welcome! If you encounter any issues or have ideas to improve SneaksAvenue, don't hesitate to open an issue or submit a pull request.

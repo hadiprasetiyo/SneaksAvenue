@@ -2,21 +2,19 @@
 
 Selamat datang di SneaksAvenue, sebuah project Laravel yang bertujuan menyediakan platform e-commerce untuk membeli dan menjual sepatu merek internasional.
 
-🌟 Features
------------
+## 🌟 Features
 
-*   🔒 **Authentication**: Secure login and registration functionality.
-*   📦 **CRUD Operations**: Create, read, update, and delete articles.
-*   🖥️ **Dashboard**: Access the admin dashboard to manage the backend.
-*   🌐 **Routing**: Organized routes for various functionalities.
-*   🌍 **International Brands**: Browse and purchase shoes from renowned international brands.
+- 🔒 **Authentication**: Secure login and registration functionality.
+- 📦 **CRUD Operations**: Create, read, update, and delete articles.
+- 🖥️ **Dashboard**: Access the admin dashboard to manage the backend.
+- 🌐 **Routing**: Organized routes for various functionalities.
+- 🌍 **International Brands**: Browse and purchase shoes from renowned international brands.
 
-🛠️ Usage
----------
+## 🛠️ Usage
 
-*   **Authentication**: Sign in or register to access the website's features.
-*   **Dashboard**: Manage the backend and view analytics at `/admin/dashboard`.
-*   **Articles**: Browse, add, edit, and delete articles at `/admin/article`.
+- **Authentication**: Sign in or register to access the website's features.
+- **Dashboard**: Manage the backend and view analytics at `/admin/dashboard`.
+- **Articles**: Browse, add, edit, and delete articles at `/admin/article`.
 
 ## 🤝 Contributing
 
